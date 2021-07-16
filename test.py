@@ -1,1 +1,0 @@
-print("Tum sikh gya")
