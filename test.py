@@ -1,0 +1,1 @@
+print("Tum sikh gya")
